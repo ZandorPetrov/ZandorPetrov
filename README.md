@@ -1,4 +1,5 @@
-## Oi!! Bemvindo(a) ao meu perfil, eu sou a Zandor Petrov, programador, trabalho a área de desenvolvimento e tecnologia.
+## Oi!! Bemvindo(a) ao meu perfil
+## Eu sou Zandor Petrov, programador, trabalho a área de desenvolvimento e tecnologia ( Desenvolvo Jogos, trabalho com DAZ3D, Marvelous Designer e Blender ).<br><br>
 <div align="center">
   <a href="https://github.com/ZandorPetrov">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZandorPetrov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -25,6 +26,38 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="right" alt="" height="150" style="border-radius:50px;" 
-</div> 
+</div><br> 
   
+  ## Redes Social
  
+<div> 
+  <a href="https://www.youtube.com/channel/UCItwvVbOtP697no6ri_lXKw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   <a href = "mailto:zandorpetrovgitgithub@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:zandorpetrov@protonmail.ch" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+ 	<a href=" " target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank"></a> 
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" target="_blank"></a> 
+  <br><br> 
+  </div>
+  
+  ## Linguagens de Programação  
+  
+  <div>
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank"></a>
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" target="_blank"></a>
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" target="_blank"></a>
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank"></a>
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" target="_blank"></a>
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" target="_blank"></a>  
+</div>
+  
+
